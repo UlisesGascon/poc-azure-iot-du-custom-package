@@ -1,0 +1,38 @@
+﻿{
+    "compatibility": [
+        {
+            "manufacturer": "Contoso",
+            "model": "Video"
+        }
+    ],
+    "createdDateTime": "2023-08-03T13:11:43Z",
+    "files": [
+        {
+            "filename": "corretto-1.0.2-manifest.json",
+            "hashes": {
+                "sha256": "9748Lr+/4h9dNE3Pd8OJjXDDZMRhMvMr63d9r9sVgUw="
+            },
+            "sizeInBytes": 399
+        }
+    ],
+    "instructions": {
+        "steps": [
+            {
+                "files": [
+                    "corretto-1.0.2-manifest.json"
+                ],
+                "handler": "microsoft/apt:1",
+                "handlerProperties": {
+                    "installedCriteria": "1.0"
+                },
+                "type": "inline"
+            }
+        ]
+    },
+    "manifestVersion": "5.0",
+    "updateId": {
+        "name": "Video",
+        "provider": "Contoso",
+        "version": "2.0"
+    }
+}

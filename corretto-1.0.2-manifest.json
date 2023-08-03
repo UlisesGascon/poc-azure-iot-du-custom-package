@@ -1,0 +1,18 @@
+{
+    "name": "Corretto machine initial manifest",
+    "version": "1.0.2",
+    "packages": [
+        {
+            "name": "aziot-identity-service",
+            "version": "1.2.0~rc4-1"
+        },
+	    {
+            "name": "aziot-edge",
+            "version": "1.2.0~rc4-1"
+        },
+        {
+            "name": "demoapi",
+            "version": "1.0-0ubuntu1"
+        }
+    ]
+}
