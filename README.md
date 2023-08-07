@@ -1,4 +1,4 @@
-# poc-azure-iot-du-custom-package
+# POC - Azure IOT Hub with Device Update installing custom package
 
 Proof of Concept - how to use custom debian/ubuntu packages with Azure IOT Device Update
 
